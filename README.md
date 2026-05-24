@@ -14,8 +14,8 @@ A modern, dark-themed portfolio website designed for a Data Analyst & Engineer.
 - Google Fonts (JetBrains Mono)
 
 ## 📁 Project Structure
-- `index.html`: The main structure of the website.
-- `style.css`: Visual styling and layout.
+- `doc/index.html`: The main structure of the website.
+- `doc/style.css`: Visual styling and layout.
 - `plan_save/our_plam.md`: Project planning and roadmap.
 
 ## 📈 Future Improvements
